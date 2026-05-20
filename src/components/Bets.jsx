@@ -11,7 +11,7 @@ export default function Bets() {
       order: '02',
       decision: 'Clean the intake before anything downstream can work',
       why: 'Dec 2025 to Jan 2026 was infrastructure only. Revamped all client channels, sourced brand data for every client into a single Google Sheet, consolidated review boards, standardized naming conventions. None of this was visible work. All of it was load-bearing — without it, no agent could scan, validate, or route anything reliably.',
-      result: '75% of input standardized. QM agent can now process tasks without a human in the loop.',
+      result: 'Clean intake funnel across all clients. Every channel structured, every brand, status mapped, every review board consolidated into a single source.',
       when: 'Dec 2025 – Jan 2026',
     },
     {
