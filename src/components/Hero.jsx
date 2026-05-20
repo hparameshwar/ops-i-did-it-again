@@ -53,7 +53,7 @@ export default function Hero() {
           color: 'var(--off-white)',
           maxWidth: 820, marginBottom: '2rem',
         }}>
-          I joined a 40-brand agency<br />
+          I joined a 40 people retention marketing agency serving close 100+ brands<br />
           with no systems.<br />
           <span style={{ color: 'var(--accent)' }}>8 months later it runs<br />data, systems, and agents.</span>
         </h1>
