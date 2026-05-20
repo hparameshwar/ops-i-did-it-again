@@ -55,7 +55,7 @@ export default function Hero() {
         }}>
           I joined a 40-brand agency<br />
           with no systems.<br />
-          <span style={{ color: 'var(--accent)' }}>8 months later it runs<br />on 4 AI agents.</span>
+          <span style={{ color: 'var(--accent)' }}>8 months later it runs<br />data, systems, and agents.</span>
         </h1>
 
         <p style={{
