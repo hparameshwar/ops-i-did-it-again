@@ -44,13 +44,13 @@ export default function Before() {
             }}>
               {/* stat — tightened from clamp(2rem,4vw,3rem) */}
               <div style={{
-                fontFamily: 'var(--ff-display)',
-                fontSize: 'clamp(1.75rem, 3.5vw, 2.5rem)',
+                fontFamily: 'var(--ff-body)',
+                fontSize: 'clamp(1.5rem, 2.5vw, 2rem)',
                 fontWeight: 800, letterSpacing: '-0.04em',
                 color: '#ef4444', lineHeight: 1,
               }}>{p.stat}</div>
               <div style={{
-                fontFamily: 'var(--ff-display)', fontSize: '0.9375rem',
+                fontFamily: 'var(--ff-body)', fontSize: '0.9375rem',
                 fontWeight: 700, letterSpacing: '-0.01em',
                 color: 'var(--off-white)', lineHeight: 1.2,
               }}>{p.label}</div>
