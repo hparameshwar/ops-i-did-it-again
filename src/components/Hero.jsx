@@ -104,8 +104,8 @@ export default function Hero() {
         gridTemplateColumns: 'repeat(4, 1fr)',
       }}>
         {[
-          { num: '₹1.5CR', label: 'Annual savings' },
-          { num: '4',      label: 'Agents in production' },
+          { num: '₹50 Lakhs +', label: 'Annual savings' },
+          { num: '3',      label: 'Agents in production' },
           { num: '500+',   label: 'Tasks automated' },
           { num: '12 hrs', label: 'Recovered daily' },
         ].map((s, i) => (
