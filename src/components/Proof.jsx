@@ -5,7 +5,7 @@ export default function Proof() {
       color: '#c8f25a',
       textColor: 'var(--black)',
       stats: [
-        { num: '₹1.5CR', label: 'Long-term annual savings', detail: 'D&D restructuring · 6+ exits · dept merged' },
+        { num: '₹50 Lakhs +', label: 'Long-term annual savings', detail: 'D&D restructuring · 6+ exits · dept merged' },
         { num: '₹34L',   label: 'Immediate annual savings', detail: 'Lead role eliminated · 2 role exits' },
         { num: '₹314',   label: 'Cost per email — exposed', detail: '57% utilization · ₹1.54L/month idle found' },
       ],
